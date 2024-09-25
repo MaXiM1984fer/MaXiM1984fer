@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ojeda-data-analyst/)
+<!-- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ojeda-data-analyst/)
+-->
 
 <h1>
   Hola soy Fernando ¡Bienvenido!
