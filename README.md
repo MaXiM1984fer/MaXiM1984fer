@@ -12,9 +12,9 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 * :telescope: Actualmente estoy trabajando como Freelance de People Analytics para afinar mis habilidades.
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, y acabo de obtener mi certiciación como Data Analyst de las escuela TripleTen.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, y acabo de obtener mi certificación como Data Analyst de las escuela TripleTen.
 
-* :heartbeat: Me encanta descubrir nuevos insights y las historias que cuentan los datos.
+* :heartbeat: Me encanta descubrir nuevos insights e historias que cuentan los datos.
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ojeda-data-analyst/)
 
