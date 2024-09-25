@@ -10,7 +10,7 @@
 ### :man_technologist: Sobre mí :
 Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando como Freelance de People Analytics y practicanto mis habilidades 
+* :telescope: Actualmente estoy trabajando como Freelance de People Analytics para afinar mis habilidades.
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, y acabo de obtener mi certiciación como Data Analyst de las escuela TripleTen.
 
